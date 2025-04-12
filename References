@@ -1,0 +1,16 @@
+📚 References
+🔗 InsecureBankv2 GitHub Repository
+https://github.com/dineshshetty/Android-InsecureBankv2
+Original intentionally vulnerable mobile application used for testing and assessment.
+
+🛠 Android Studio
+https://developer.android.com/studio
+Used for building, modifying, and analyzing the mobile application.
+
+🧪 Burp Suite
+https://portswigger.net/burp
+Intercepting proxy used to analyze and exploit insecure communication.
+
+🧰 ADB (Android Debug Bridge)
+https://developer.android.com/studio/command-line/adb
+Used to interact with the emulator, install APKs, configure proxies, and extract data.
